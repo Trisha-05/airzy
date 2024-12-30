@@ -87,11 +87,15 @@ passport.deserializeUser(User.deserializeUser());
 
 
 app.use((req,res,next) => {
+    const clientIP = req.clientIp;
     res.locals.success = req.flash("success");
     res.locals.error = req.flash("error");
     res.locals.currUser= req.user;
     
     // console.log(res.locals.success);
+    console.log("ip address",req.ip);
+    console.log(req.get('User-Agent'));
+  console.log(clientIP);
     next();
 })
 // app.get("/testListing", async (req,res)=>{
