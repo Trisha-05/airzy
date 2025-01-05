@@ -1,4 +1,5 @@
-# Airzy - A Full Stack Airbnb Clone
+# Airzy - A Full Stack Airbnb Clone 🌐
+
 
 **Airzy** is a full-stack web application developed to provide users with a platform to sign up, log in, and book Airbnbs for their stay. It is designed to be a simple and effective version of the popular Airbnb service, with the ability to upload listings, manage bookings, and provide a seamless user experience.
 
@@ -26,6 +27,15 @@
   - **Express Sessions**: For maintaining user sessions across requests.
   - **Flash**: For displaying flash messages to users (e.g., successful login, error, etc.).
   - **bcrypt**: For securely hashing user passwords.
+ 
+## Deployment
+**Application Deployment:** The Airzy app is deployed on Render for easy hosting and scalable performance.
+Database Deployment: The database is hosted on MongoDB Atlas, a cloud-based database service, ensuring reliable and secure data storage.
+**Access the Live Application:**
+You can access the deployed version of the project here: Airzy -## Project Structure 📁 :
+[🔗 Airzy-Live Site][(https://airzy-ulu0.onrender.com/listings)]
+
+
 
 ## Setup Instructions
 
@@ -116,5 +126,4 @@ We welcome contributions to the project! If you find any bugs or want to suggest
 ![Screenshot 2025-01-05 103713](https://github.com/user-attachments/assets/7931e51e-d3b4-4dd3-92bd-1d27d6f6a5c8)
 ![Screenshot 2025-01-05 103730](https://github.com/user-attachments/assets/a10d82dc-deb3-4d00-a8b3-e75cecc12f72)
 ![Screenshot 2025-01-05 103817](https://github.com/user-attachments/assets/29b188bb-325c-4bad-a393-42fb6a8ae203)
-
 
