@@ -30,9 +30,10 @@
  
 ## Deployment
 **Application Deployment:** The Airzy app is deployed on Render for easy hosting and scalable performance.
-Database Deployment: The database is hosted on MongoDB Atlas, a cloud-based database service, ensuring reliable and secure data storage.
-**Access the Live Application:**
-You can access the deployed version of the project here: Airzy-📁 :
+
+**Database Deployment:** The database is hosted on MongoDB Atlas, a cloud-based database service, ensuring reliable and secure data storage.
+
+**Access the Live Application:** You can access the deployed version of the project here: Airzy-📁 :
 
 [🔗 Airzy-Live Site][(https://airzy-ulu0.onrender.com/listings)]
 
